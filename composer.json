@@ -1,0 +1,11 @@
+{
+    "name": "fw/hello-world",
+    "description": "this is a test composer package.",
+    "type": "library",
+    "require": {},
+    "autoload": {
+    	"psr-0": {
+		"HelloWorld": "src/"
+	}
+    }
+}
