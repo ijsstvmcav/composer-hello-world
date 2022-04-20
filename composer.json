@@ -1,5 +1,5 @@
 {
-    "name": "fw/hello-world",
+    "name": "ijsstvmcav/hello-world",
     "description": "this is a test composer package.",
     "type": "library",
     "require": {},
